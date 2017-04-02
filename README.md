@@ -1,8 +1,7 @@
 Primera aproximación al control de motores paso a paso con arduino.
 Incluye una presentación de otros drivers, para centrarnos en el control mediante pololu y la cncshield.
 
-El programa MotorX_manual_con_cncshield.ino es un ejemplo de código para los pines del motor X de la cncshield
-
-Probando probando....... Paco
-
-He añadido una transparencia al final con el código de ejemplo
+Contiene el pdf de la charla sobre motores del Arduino Day 2017
+También los ejemplos de las 7 maquetas montadas, con programas los de ejemplo.
+La librería Stepper está incluida en el IDE Arduino
+La librería AccelStepper se puede descargar de http://www.airspayce.com/mikem/arduino/AccelStepper
